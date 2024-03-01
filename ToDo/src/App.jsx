@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
-import React from "react";
 import "./App.css";
-import { Nota, Form, NotaList } from "./Componentes";
+import { Form, NotaList } from "/Componentes";
 import { useLocalStorage } from './useLocalStorage'
 
 
